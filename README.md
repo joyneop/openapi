@@ -1,5 +1,7 @@
 # zaoshu SpinnyWeaver Open API 
 
+[简体中文](./README_SC.md)
+
 *WARNING: This version is for demonstration and not production-ready, and so is this documentation, which is only for early access developers.*
 
 *If you want to fetch and parse some open website pages, but don't know nothing about web-spider-programming, we'd love to introduce our WebUI Beta version at [zaoshu.io](https://zaoshu.io) to you, give it a try!*
@@ -41,6 +43,4 @@ Example:
         instance_77c35ed148134a67b091deb258efeade/ \
         downloadLatest/json
 
-*NOTICE: If the instance is running with `Deep Crawling` feature on, the result file format will be `zip`, and the package will contain files with specific file type.*
-        
-
+*NOTICE: If the instance was running with `Deep Crawling` feature on, the result file format of it would be `zip`, and the package will contain files with specific file type.*
