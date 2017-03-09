@@ -41,6 +41,6 @@ Example:
         instance_77c35ed148134a67b091deb258efeade/ \
         downloadLatest/json
 
-*NOTICE: If the instance is running with `Deep Crawling` feature on, the result file format will be `zip`, and the package contains files with specific file type*
+*NOTICE: If the instance is running with `Deep Crawling` feature on, the result file format will be `zip`, and the package will contain files with specific file type.*
         
 
