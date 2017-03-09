@@ -2,7 +2,7 @@
 
 *WARNING: This version is for demonstration and not production-ready, and so is this documentation, which is only for early access developers.*
 
-*If you want to fetch and parse some open website pages, but don't know nothing about web-spider-programming, We'd love to introduce our WebUI Beta version at [zaoshu.io](https://zaoshu.io) to you, give it a try!*
+*If you want to fetch and parse some open website pages, but don't know nothing about web-spider-programming, we'd love to introduce our WebUI Beta version at [zaoshu.io](https://zaoshu.io) to you, give it a try!*
 
 ## V1 (alpha)
 
